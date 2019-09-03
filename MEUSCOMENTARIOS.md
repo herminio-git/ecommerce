@@ -20,3 +20,12 @@ $ git add --all
  Para empurar os arquivos para o github
  
  $ git push origin master
+ 
+ -------------------------------------------------------
+ Quando ouver alguma modificação de "classes",
+ é preciso refatorar o "composer" 
+ 
+ $ composer dump-autoload
+
+ -------------------------------------------------------
+ 
