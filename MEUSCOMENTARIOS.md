@@ -14,7 +14,7 @@ $ git add --all
  -------------------------------------------------------
  Descrição da alteração que estou fazendo no momento
  
- $ git commit -m "incicio do projeto"
+ $ git commit -m "inicio do projeto"
 
  -------------------------------------------------------
  Para empurar os arquivos para o github
