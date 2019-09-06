@@ -4,7 +4,7 @@ para ser usado de qualquer ponto ou tipo de terminal
 
  $ git config --global user.email "git.herminio@gmail.com"
 
- $ git config --global user.user "herminio-git"
+ $ git config --global user.name "herminio-git"
  
  -------------------------------------------------------
  Selecionando os arquivos para envio no Github
